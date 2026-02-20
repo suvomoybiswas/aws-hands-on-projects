@@ -1,0 +1,17 @@
+AWS-Systems-Manager-Patch-Hardening/
+│
+├── README.md
+├── docs/
+│   ├── 01-patch-linux.md
+│   ├── 02-custom-patch-baseline.md
+│   ├── 03-tagging-windows.md
+│   ├── 04-patching-windows.md
+│   ├── 05-verifying-compliance.md
+│   └── conclusion.md
+│
+└── screenshots/
+    ├── patch-linux.png
+    ├── custom-baseline.png
+    ├── tagging-windows.png
+    ├── patching-windows.png
+    ├── compliance.png

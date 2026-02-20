@@ -1,0 +1,13 @@
+cafe-web-lamp-project/
+├── scripts/
+│   ├── create-lamp-instance-v2.sh
+│   └── create-lamp-instance-userdata-v2.txt
+├── screenshots/
+│   ├── 01_connect_cli_host.png
+│   ├── 02_configure_aws_cli.png
+│   ├── 03_observe_script_details.png
+│   ├── 04_run_script.png
+│   ├── 05_troubleshoot_issues.png
+│   └── 06_verify_website.png
+├── README.md
+
