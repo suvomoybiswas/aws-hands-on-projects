@@ -1,0 +1,9 @@
+#!/bin/bash
+# Install Apache web server
+yum update -y
+yum install -y httpd
+systemctl enable httpd
+systemctl start httpd
+
+# Deploy Café & Bakery website from S3
+aws s3 cp s3://biswas234/ /var/www/html/ --recursive --acl public-read

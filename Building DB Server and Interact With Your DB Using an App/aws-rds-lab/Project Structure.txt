@@ -1,0 +1,9 @@
+aws-rds-lab/
+│
+├── README.md
+├── screenshots/
+│   ├── create-security-group.png
+│   ├── create-db-subnet-group.png
+│   ├── create-rds-instance.png
+│   └── interact-with-db.png
+
